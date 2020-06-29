@@ -28,6 +28,7 @@
     },
     "android": {
       "package": "com.kidogoApp.kidogoApp"
-    }
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
   }
 }
